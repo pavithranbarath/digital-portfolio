@@ -1,0 +1,434 @@
+.app-component-wrapper {
+  display: contents;
+}
+ 
+.app-component-container {
+  display: flex;
+  position: relative;
+}
+
+.details-about-my-work-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.details-about-my-work-details-about-my-work {
+  width: 100%;
+  height: 3146px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.details-about-my-work-text10 {
+  top: 243px;
+  left: 499px;
+  color: var(--dl-color-default-darkcolor);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.details-about-my-work-text11 {
+  top: 351px;
+  left: 499px;
+  color: var(--dl-color-default-darkcolor);
+  width: 500px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.details-about-my-work-vector8 {
+  top: 481px;
+  left: 235px;
+  width: 682px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.details-about-my-work-image1 {
+  top: 254px;
+  left: 235px;
+  width: 246px;
+  height: 180px;
+  position: absolute;
+  border-radius: 6px;
+}
+ 
+.details-about-my-work-text12 {
+  top: 511px;
+  left: 499px;
+  color: var(--dl-color-default-darkcolor);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.details-about-my-work-text13 {
+  top: 619px;
+  left: 499px;
+  color: var(--dl-color-default-darkcolor);
+  width: 500px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.details-about-my-work-text14 {
+  text-decoration: NONE;
+}
+ 
+.details-about-my-work-vector9 {
+  top: 749px;
+  left: 235px;
+  width: 682px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.details-about-my-work-image2 {
+  top: 522px;
+  left: 235px;
+  width: 246px;
+  height: 180px;
+  position: absolute;
+  border-radius: 6px;
+}
+ 
+.details-about-my-work-text16 {
+  top: 779px;
+  left: 499px;
+  color: var(--dl-color-default-darkcolor);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.details-about-my-work-text17 {
+  top: 887px;
+  left: 499px;
+  color: var(--dl-color-default-darkcolor);
+  width: 500px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.details-about-my-work-vector10 {
+  top: 1017px;
+  left: 235px;
+  width: 682px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.details-about-my-work-image3 {
+  top: 790px;
+  left: 235px;
+  width: 246px;
+  height: 180px;
+  position: absolute;
+  border-radius: 6px;
+}
+ 
+.details-about-my-work-text18 {
+  top: 1064px;
+  left: 499px;
+  color: var(--dl-color-default-darkcolor);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.details-about-my-work-text19 {
+  top: 1172px;
+  left: 499px;
+  color: var(--dl-color-default-darkcolor);
+  width: 500px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.details-about-my-work-vector11 {
+  top: 1302px;
+  left: 235px;
+  width: 682px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.details-about-my-work-image4 {
+  top: 1075px;
+  left: 235px;
+  width: 246px;
+  height: 180px;
+  position: absolute;
+  border-radius: 6px;
+}
+ 
+.details-about-my-work-text20 {
+  top: 1360px;
+  left: 499px;
+  color: var(--dl-color-default-darkcolor);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.details-about-my-work-text21 {
+  top: 1468px;
+  left: 499px;
+  color: var(--dl-color-default-darkcolor);
+  width: 500px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.details-about-my-work-vector12 {
+  top: 1598px;
+  left: 235px;
+  width: 682px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.details-about-my-work-image5 {
+  top: 1371px;
+  left: 235px;
+  width: 246px;
+  height: 180px;
+  position: absolute;
+  border-radius: 6px;
+}
+ 
+.details-about-my-work-text22 {
+  top: 1632px;
+  left: 499px;
+  color: var(--dl-color-default-darkcolor);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.details-about-my-work-text23 {
+  top: 1740px;
+  left: 499px;
+  color: var(--dl-color-default-darkcolor);
+  width: 500px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.details-about-my-work-text24 {
+  text-decoration: NONE;
+}
+ 
+.details-about-my-work-vector13 {
+  top: 1870px;
+  left: 235px;
+  width: 682px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.details-about-my-work-image6 {
+  top: 1643px;
+  left: 235px;
+  width: 246px;
+  height: 180px;
+  position: absolute;
+  border-radius: 6px;
+}
+ 
+.details-about-my-work-home {
+  top: 77px;
+  left: 111px;
+  width: 124px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.details-about-my-work-text26 {
+  color: rgba(0, 0, 0, 1);
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.details-about-my-work-text27 {
+  top: 150px;
+  left: 141px;
+  color: rgba(0, 0, 0, 1);
+  width: 515px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Medium;
+  text-align: right;
+  font-family: Heebo;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.details-about-my-work-text28 {
+  top: 1882px;
+  left: 103px;
+  color: rgba(0, 0, 0, 1);
+  width: 255px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Heebo;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.details-about-my-work-pasted-image1 {
+  right: 120px;
+  width: 390px;
+  bottom: 174px;
+  height: 544px;
+  position: absolute;
+}
+ 
+.details-about-my-work-pasted-image2 {
+  top: 1881px;
+  right: 38px;
+  width: 586px;
+  height: 382px;
+  position: absolute;
+}
+ 
+.details-about-my-work-text29 {
+  top: 1994px;
+  left: 167px;
+  color: rgb(35, 0, 0);
+  position: absolute;
+  font-size: 30px;
+  align-self: flex-end;
+  font-style: normal;
+  font-weight: 400;
+}
+ 
+.details-about-my-work-text35 {
+  left: 146px;
+  color: rgb(35, 0, 0);
+  bottom: 412px;
+  position: absolute;
+  font-size: 30px;
+  text-align: left;
+}
